@@ -1,7 +1,7 @@
 /* Suduko Solver 
  * Recursive solution to Suduko Puzzles on 9x9 grids (with 3x3 subgrids)
- * by Liam MacLeod
- * lmacl649@mtroyal.ca
+ * by Liam M
+ * liam345@gmail.com
  * 
  * design notes - this program uses recursion to brute-force sudoku puzzles
  * 
